@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brianthungu
-- 👀 I’m interested in implementing new ideas inform of codding 
+- 👀 I’m interested in implementing new ideas inform of codding to solve day to day problems.
 - 🌱 I’m currently learning software engineering at alx
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me brianthungu.bt@gmail.com
